@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  HoneyCombIOS
+
+  Created by DongYigung on 15/3/20.
+  Copyright (c) 2015年 ADA. All rights reserved.
+*/
+
+"Share" = "分享";
+"New Game" = "下一关";
+"End Challenge" = "结束挑战";
+"Start to game" = "开始游戏";
+"Let's go" = "入口";
+"Outside" = "出口";
+"Playing %@" = "挑战中 %@";
+"TipMissStarChallenge" = "没有拿到全部星星！可以继续去找星星，或结束挑战";
+"TipMissStarGame" = "没有拿到全部星星！可以继续去找星星，或进入下一关";
+"ShareMessage" = "玩蜂巢迷宫，来体验最强大脑中盲走迷宫的乐趣，挑战你的空间思维和记忆力吧！";
+"StepsTip" = "%d 步 ";
+"Purchase" = "购买";
+"OK" = "确定";
+"Cancel" = "取消";
+"ShareSuccessStage" = "你得到 10 个蜂眼";
+"ShareSuccessOnce" = "你得到 100 个蜂眼";
+"Bee-eyes detail" = "蜂眼明细";
+"Consume" = "游戏消费";
+"GameGift" = "游戏奖励";
+"Tip" = "提示";
+"RenewGame" = "放弃当前游戏并重新开始本关卡？";
+"ViewMap" = "查看地图";
+"QQSession" = "QQ好友";
+"QQZone" = "QQ空间";
+"WeixinSession" = "微信好友";
+"WeixinTimeline" = "微信朋友圈";
+"WalkTip0" = "闯关模式中显示关卡编号\n挑战模式中显示迷宫名称";
+"WalkTip1" = "中心房间是你身处的房间";
+"WalkTip2" = "同颜色的房间可以进入，点击它，迷宫地图平移，进入新房间";
+"WalkTip3" = "点击切换蜂眼打开状态，每显示一个房间编号消耗一个蜂眼";
+"WalkTip4" = "当前剩余可用蜂眼数量";
+"WalkTip5" = "游戏用时";
+"WalkTip6" = "在迷宫中行走总计步数";
+"WalkTip7" = "星星总数和已拿到的个数";
+"WalkTip8" = "在闯关模式中，点击这里可以重新开始当前关卡";
+"WalkTip9" = "查看迷宫地图，每查看一次需要消耗10个蜂眼";
+"WalkTip10" = "退出游戏\n游戏的状态会自动保存（包括：用时、步数、所在房间、获得星星等）";
+"WalkTip11" = "接下来继续游戏吧，再走两步试试看";
+"WalkTip12" = "再走一步";
+"WalkTip13" = "你已经走出迷宫";
+"WalkTip14" = "但是有一个星星没有拿到";
+"WalkTip15" = "游戏中走出迷宫但没有拿到全部星星的话会有提醒";
+"WalkTip16" = "你可以选择不去拿星星直接进入下一关";
+"WalkTip17" = "现在让我们回去找一下星星吧，点击往回走";
+"WalkTip18" = "到另一个可进入的房间去找星星";
+"WalkTip19" = "拿到星星了哦\n按照刚才的路线走出迷宫吧";
+"WalkTip20" = "再走一步";
+"WalkTip21" = "拿到全部星星后再次走出迷宫，完美闯关！奖励10个蜂眼！";
+"WalkTip22" = "分享当前游戏，会赠送10个蜂眼哦！";
+"WalkTip23" = "现在，退回看看";
+"HomeTip1" = "想再看一次新手指引吗";
+"HomeTip2" = "挑战模式，迷宫路线与星星都经过精心设计，乐趣更多";
+"HomeTip3" = "过关和挑战成绩在这里，分享可获赠10个蜂眼哦！";
+"HomeTip4" = "更多设置在这里，分享游戏到你的每个社交网络，每分享一个可获赠100个蜂眼哦！";
+"Bee-eyesNotEnough" = "蜂眼个数不足10个，不能查看地图";
+"SettingTip1" = "这里显示可用蜂眼个数，点击去购买";
+"SettingTip2" = "分享游戏到你的社交网络获取赠送蜂眼";

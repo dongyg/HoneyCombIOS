@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  HoneyCombIOS
+
+  Created by DongYigung on 15/3/20.
+  Copyright (c) 2015年 ADA. All rights reserved.
+*/
+
+"Share" = "Share";
+"New Game" = "New Game";
+"End Challenge" = "End Challenge";
+"Start to game" = "Start to game";
+"Let's go" = "Let's go";
+"Outside" = "Outside";
+"Playing %@" = "Playing %@";
+"TipMissStarChallenge" = "Some stars missing! go on or end challenge.";
+"TipMissStarGame" = "Some stars missing! go on or start a new game.";
+"ShareMessage" = "HoneyComb-Maze, it's amazing game, I just got it, come on!";
+"StepsTip" = "%d Steps ";
+"Purchase" = "Purchase";
+"OK" = "OK";
+"Cancel" = "Cancel";
+"ShareSuccessStage" = "You got %@";
+"ShareSuccessOnce" = "You got 100 bee-eyes";
+"Bee-eyes detail" = "Bee-eyes detail";
+"Consume" = "Consume";
+"GameGift" = "GameGift";
+"Tip" = "Tip";
+"RenewGame" = "Give up current game and restart this stage?";
+"ViewMap" = "ViewMap";
+"QQSession" = "QQSession";
+"QQZone" = "QQZone";
+"WeixinSession" = "WeixinSession";
+"WeixinTimeline" = "WeixinTimeline";
+"WalkTip0" = "It's level - stage, in mission complete mode\nIt's maze name, in challenge mode.";
+"WalkTip1" = "The room of the center is your are in currently.";
+"WalkTip2" = "You can enter any room with same color. Tap it, maze map will be panned and you enter the new room.";
+"WalkTip3" = "Switch bee-eyes open or close by tap. One bee-eye will be cost when one room number is showed.";
+"WalkTip4" = "The number of bee-eyes available.";
+"WalkTip5" = "Spent time.";
+"WalkTip6" = "Total steps.";
+"WalkTip7" = "Total and gotten number of stars.";
+"WalkTip8" = "In mission complete mode, the current level will be restart by tap here.";
+"WalkTip9" = "View the maze map. Ten bee-eyes will be cost once.";
+"WalkTip10" = "Exit\nThe game status will be saved automatically, including: spent time, steps, current room and got stars etc.";
+"WalkTip11" = "Then continue the game now. Tap more.";
+"WalkTip12" = "Give another tap.";
+"WalkTip13" = "You went out the maze.";
+"WalkTip14" = "But still one star has not been gotten yet.";
+"WalkTip15" = "There will be a reminder if you went out the maze but no all the stars.";
+"WalkTip16" = "You can go to next level directly but not to get star any more.";
+"WalkTip17" = "Now, let’s return to find the star. Tap to go back.";
+"WalkTip18" = "Searching star to another available room.";
+"WalkTip19" = "Got a star! Go out the maze following the former route.";
+"WalkTip20" = "Give another tap.";
+"WalkTip21" = "Got all the stars and went out the maze again. Mission complete perfectly! You got 10 bee-eyes as reward.";
+"WalkTip22" = "Share the score to get extra 10 bee-eyes.";
+"WalkTip23" = "Now, go back watch more tips.";
+"HomeTip1" = "Want to watch the guideline again, tap here.";
+"HomeTip2" = "In challenge mode, maze route and stars are designed carefully, more fun.";
+"HomeTip3" = "Here is your scores. Remember, get 10 bee-eyes by sharing every score.";
+"HomeTip4" = "Here is others functions. You can share the game to your various social networks, and 100 bee-eyes will be rewarded for each sharing.";
+"Bee-eyesNotEnough" = "Bee-eyes not enough.";
+"SettingTip1" = "Show the number of bee-eyes, and tap to purchase.";
+"SettingTip2" = "Share to your social networks, get more bee-eyes.";

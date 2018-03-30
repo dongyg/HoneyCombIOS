@@ -1,0 +1,105 @@
+
+/* Class = "UIButton"; normalTitle = "Guide"; ObjectID = "0fw-Iy-T9w"; */
+"0fw-Iy-T9w.normalTitle" = "教程";
+
+/* Class = "UILabel"; text = "SuperBrain"; ObjectID = "39Y-dE-1gT"; */
+"39Y-dE-1gT.text" = "SuperBrain";
+
+/* Class = "UILabel"; text = "Current Level"; ObjectID = "3Qt-d1-bku"; */
+"3Qt-d1-bku.text" = "当前游戏关卡";
+
+/* Class = "UILabel"; text = "7 layers"; ObjectID = "3YP-6W-i67"; */
+"3YP-6W-i67.text" = "7 layers";
+
+/* Class = "UILabel"; text = "Stars"; ObjectID = "5l3-ks-A3p"; */
+"5l3-ks-A3p.text" = "Stars";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "7M5-YR-crw"; */
+"7M5-YR-crw.text" = "00:00:00";
+
+/* Class = "UILabel"; text = "2015-04-10 11:53:12"; ObjectID = "8S5-hs-ESO"; */
+"8S5-hs-ESO.text" = "2015-04-10 11:53:12";
+
+/* Class = "UILabel"; text = "Comment"; ObjectID = "9Ps-5e-7i5"; */
+"9Ps-5e-7i5.text" = "给个评论";
+
+/* Class = "UILabel"; text = "-89"; ObjectID = "AYM-Zg-Lzz"; */
+"AYM-Zg-Lzz.text" = "-89";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "I67-gf-X7U"; */
+"I67-gf-X7U.text" = "0";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "JKs-9A-6Mf"; */
+"JKs-9A-6Mf.title" = "返回";
+
+/* Class = "UILabel"; text = "1 - 1"; ObjectID = "JQi-vR-7iy"; */
+"JQi-vR-7iy.text" = "1 - 1";
+
+/* Class = "UITableViewSection"; footerTitle = "Share this game to get 100 bee-eyes, and get extra 10 bee-eyes by sharing every stage/challenge. PS: share after set social account in Settings."; ObjectID = "LDB-Wa-moj"; */
+"LDB-Wa-moj.footerTitle" = "分享到一个社交圈可获赠100个蜂眼。提示：在系统设置中完善你的社交账号配置获取更多分享途径。每完成一个关卡或挑战奖励10个蜂眼，分享再额外获赠10个蜂眼。";
+
+/* Class = "UITableViewSection"; headerTitle = "Share"; ObjectID = "LDB-Wa-moj"; */
+"LDB-Wa-moj.headerTitle" = "分享";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "NPA-Tc-zPB"; */
+"NPA-Tc-zPB.title" = "返回";
+
+/* Class = "UITableViewSection"; headerTitle = "Level"; ObjectID = "RNC-VZ-FNY"; */
+"RNC-VZ-FNY.headerTitle" = "设置游戏关卡";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Vp1-7x-0WH"; */
+"Vp1-7x-0WH.text" = "Label";
+
+/* Class = "UITableViewSection"; headerTitle = "Others"; ObjectID = "XGh-fs-xIP"; */
+"XGh-fs-xIP.headerTitle" = "其它";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "bZU-yT-ZeY"; */
+"bZU-yT-ZeY.normalTitle" = "游戏";
+
+/* Class = "UILabel"; text = "Consume:1-1"; ObjectID = "be1-qt-H0J"; */
+"be1-qt-H0J.text" = "Consume:1-1";
+
+/* Class = "UILabel"; text = "View detail"; ObjectID = "bpL-Ef-fh3"; */
+"bpL-Ef-fh3.text" = "查看购买和消费记录";
+
+/* Class = "UINavigationItem"; title = "Setting"; ObjectID = "cab-fV-91F"; */
+"cab-fV-91F.title" = "设置";
+
+/* Class = "UILabel"; text = "Available (Tap to purchase)"; ObjectID = "fbT-ns-Iaw"; */
+"fbT-ns-Iaw.text" = "蜜蜂眼个数 (点击购买)";
+
+/* Class = "UINavigationItem"; title = "Challenge"; ObjectID = "hLA-cS-oca"; */
+"hLA-cS-oca.title" = "挑战";
+
+/* Class = "UIButton"; normalTitle = "Challenge"; ObjectID = "lXY-a5-6Lu"; */
+"lXY-a5-6Lu.normalTitle" = "挑战";
+
+/* Class = "UINavigationItem"; title = "Score"; ObjectID = "ptw-wk-VcV"; */
+"ptw-wk-VcV.title" = "成绩";
+
+/* Class = "UIViewController"; title = "HoneyComb"; ObjectID = "pvT-hz-5r1"; */
+"pvT-hz-5r1.title" = "蜂巢迷宫";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "sff-XP-K4M"; */
+"sff-XP-K4M.title" = "返回";
+
+/* Class = "UILabel"; text = "Stars"; ObjectID = "tba-JO-Khq"; */
+"tba-JO-Khq.text" = "Stars";
+
+/* Class = "UILabel"; text = "Open Eyes"; ObjectID = "tkQ-h1-NlA"; */
+"tkQ-h1-NlA.text" = "打开";
+
+/* Class = "UILabel"; text = "Share to ..."; ObjectID = "uIz-aL-flK"; */
+"uIz-aL-flK.text" = "分享到...";
+
+/* Class = "UITableViewSection"; footerTitle = "Bee-eyes can be used to view the room number during the game. Show a room number consumes a Bee-eye. PS: Delete app will lost the unuse bee-eyes."; ObjectID = "uoI-rm-Tkz"; */
+"uoI-rm-Tkz.footerTitle" = "蜂眼可用于在游戏中显示蜂巢房间编号，帮助记忆迷宫路线，加快走出迷宫的速度。显示一个房间编号消耗一个蜂眼。游戏中可使用10个蜂眼查看一次迷宫地图。提示：删除应用将会丢失未使用的蜂眼。";
+
+/* Class = "UITableViewSection"; headerTitle = "Bee-Eyes"; ObjectID = "uoI-rm-Tkz"; */
+"uoI-rm-Tkz.headerTitle" = "蜜蜂眼";
+
+/* Class = "UILabel"; text = "Playing 00:00:00"; ObjectID = "wSY-bo-yNa"; */
+"wSY-bo-yNa.text" = "Playing 00:00:00";
+
+/* Class = "UILabel"; text = "1 - 1"; ObjectID = "xfE-tH-EEF"; */
+"xfE-tH-EEF.text" = "1 - 1";
